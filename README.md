@@ -14,3 +14,6 @@ cd Auto-Tu-Tien-Nettruyen
 go build
 ./AutoTuTien.exe
 ```
+```
+Note: đang support mỗi trình duyệt brave bạn có thể thay đổi trong source code.
+```
