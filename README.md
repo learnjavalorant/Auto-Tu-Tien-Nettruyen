@@ -1,6 +1,6 @@
 # Auto-Tu-Tien-Nettruyen
 Tool Dùng để auto tu tiên tại nettruyen. chỉ dùng để kham thảo.
-# Start
+# Đọc Kĩ
 ```
 1. Tool được viết từ golang (tôi viết chơi chơi nên hơi simple.)
 2. Compile để dùng hoặc download từ release.
