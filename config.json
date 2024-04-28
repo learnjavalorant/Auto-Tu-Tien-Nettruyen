@@ -1,0 +1,18 @@
+  {
+    "TrangChuNettruyen": "https://www.nettruyenvv.com",
+    "TenDangNhap": "xxxxxxxxxxxxx@gmail.com",
+    "MatKhau": "xxxxxxxxxxx",
+    "Truyen": [
+      {
+        "TruyenUrl": "https://www.nettruyenvv.com/truyen-tranh/vo-luyen-dinh-phong-176960",
+        "SoChapDoc": 5,
+        "TenTruyen": "Võ Luyện Đỉnh Phong 1"
+      },
+      {
+        "TruyenUrl": "https://www.nettruyenvv.com/truyen-tranh/vo-luyen-dinh-phong-176960",
+        "SoChapDoc": 5,
+        "TenTruyen": "Võ Luyện Đỉnh Phong 2"
+      }
+    ],
+    "DelayTime": 1000
+  }
