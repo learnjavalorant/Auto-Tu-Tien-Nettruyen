@@ -17,3 +17,27 @@ go build
 ```
 Note: đang support mỗi trình duyệt brave bạn có thể thay đổi trong source code.
 ```
+
+Config
+```
+ae muốn auto 3 tab thì thêm 1 cái nữa thì làm như này
+    "Truyen": [
+      {
+        "TruyenUrl": "https://www.nettruyenvv.com/truyen-tranh/vo-luyen-dinh-phong-176960",
+        "SoChapDoc": 5,
+        "TenTruyen": "Võ Luyện Đỉnh Phong 1"
+      },
+      {
+        "TruyenUrl": "https://www.nettruyenvv.com/truyen-tranh/vo-luyen-dinh-phong-176960",
+        "SoChapDoc": 5,
+        "TenTruyen": "Võ Luyện Đỉnh Phong 2"
+      },
+      {
+        "TruyenUrl": "https://www.nettruyenvv.com/truyen-tranh/vo-luyen-dinh-phong-176960",
+        "SoChapDoc": 5,
+        "TenTruyen": "Võ Luyện Đỉnh Phong 3"
+      }
+    ],
+    "DelayTime": 1000
+  } 
+```
